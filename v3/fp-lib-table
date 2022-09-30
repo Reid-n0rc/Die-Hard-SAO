@@ -1,4 +1,0 @@
-
-(fp_lib_table
-  (lib (name "Die_Hard_Final_Countdown")(type KiCad)(uri "$(KIPRJMOD)/Die_Hard_Final_Countdown.pretty")(options "")(descr ""))
-)
