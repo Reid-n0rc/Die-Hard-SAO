@@ -444,7 +444,7 @@
     (property "Value" "JUMPER-SMT_2_NO" (id 1) (at 125.73 109.8217 0)
       (effects (font (size 1.143 1.143)))
     )
-    (property "Footprint" "SMT-JUMPER_2_NO" (id 2) (at 125.73 110.49 0)
+    (property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm" (id 2) (at 125.73 110.49 0)
       (effects (font (size 0.508 0.508)) hide)
     )
     (property "Datasheet" "" (id 3) (at 125.73 115.57 0)
@@ -510,7 +510,7 @@
       (reference "D1") (unit 1) (value "LED5MM") (footprint "LED_THT:LED_D5.0mm_Horizontal_O3.81mm_Z9.0mm")
     )
     (path "/45060941-0985-476d-88eb-2ef2eab2f4c7"
-      (reference "JP1") (unit 1) (value "JUMPER-SMT_2_NO") (footprint "SMT-JUMPER_2_NO")
+      (reference "JP1") (unit 1) (value "JUMPER-SMT_2_NO") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm")
     )
     (path "/b5d24432-2e11-4323-8d9e-7a51fa3b8345"
       (reference "R1") (unit 1) (value "56OHM-0805-1_4W-1%") (footprint "0805")
